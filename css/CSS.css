@@ -1,0 +1,144 @@
+.navbar-header {
+font-family: 'Vibur', cursive;
+font-size: 1.5em;
+}
+body {
+	background-image:url('../images/background.jpg');
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+.head1 {
+	font-family: 'Comfortaa', cursive;
+	text-align: center;
+	font-size: 40px;
+}
+.para1 {
+	font-family: 'Satisfy', cursive;
+	font-size: 15px;
+	text-align: center;
+}
+.title_head {
+	font-family: 'Comfortaa', cursive;;
+	font-size: 13px;
+	margin-right: 40px;
+}
+.btn btn-primary {
+	position: absolute;
+	top: 40px;
+	margin-top: 40px;
+}
+.title_head2 {
+	font-family: 'Comfortaa', cursive;;
+	font-size: 13px;
+	margin-right: 40px;
+}
+
+.name {
+	font-size: 50px;
+	font-family: 'Fira Sans', sans-serif; 
+	position: absolute;
+}
+.img-circle {
+	height: 300px;
+	width: 300px;
+	align: center;
+}
+
+
+
+
+
+img {
+    width: 100%;
+    height: 800px;
+}
+.row:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+    width: 100%;
+}
+@media only screen and (min-width: 600px) {
+    .col-s-1 {width: 8.33%;}
+    .col-s-2 {width: 16.66%;}
+    .col-s-3 {width: 25%;}
+    .col-s-4 {width: 33.33%;}
+    .col-s-5 {width: 41.66%;}
+    .col-s-6 {width: 50%;}
+    .col-s-7 {width: 58.33%;}
+    .col-s-8 {width: 66.66%;}
+    .col-s-9 {width: 75%;}
+    .col-s-10 {width: 83.33%;}
+    .col-s-11 {width: 91.66%;}
+    .col-s-12 {width: 100%;}
+}
+@media only screen and (min-width: 768px) {
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+}
+
+.contact {
+	font-size: 50px;
+	font-family: 'Fira Sans', sans-serif;
+}
+
+.number_views {
+	font-family: 'Arvo', serif;
+	font-size: 30px;
+}
+
+#a1 {
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 20px;
+	margin-bottom: 40px;
+}
+
+.container1 {
+	margin-left: 105px;
+}
+
+.year {
+	font-family: 'Arvo', serif;
+	font-size: 30px;
+}
+
+#a2 {
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 20px;
+	margin-bottom: 40px;
+}
+.time {
+	font-family: 'Fira Sans', sans-serif;
+}
+.map {
+	margin-left: 105px;
+	margin-top: 60px;
+	height: 300px;
+	width: 400px;
+}
+.about {
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 60px;
+	text-align: center;
+}
+.para {
+	letter-spacing: 2px;
+	line-height: 30px;
+	text-align: center;
+	font-weight: 10px;
+}
+/****Contact Form***/
